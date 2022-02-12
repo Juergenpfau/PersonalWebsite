@@ -220,8 +220,10 @@ margin: 100px auto;
   background-color: #D3DEDC;
 }
 .featurette-image{
+  border-radius: 50%;
   padding-top: 10%;
     width:  20%;
     height: 20%;
     background-size: cover;
+    background-position:center;
 }
